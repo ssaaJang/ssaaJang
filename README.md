@@ -5,7 +5,7 @@
 #### *<div align="Left">Studying hard  👻</div>*  
 - Algorithm 
 - Operating System
-
+- Linux
 <br/>
 
 ## Languages and Tools  
