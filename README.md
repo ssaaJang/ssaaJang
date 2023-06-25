@@ -3,6 +3,9 @@
 
 <!--#### <div align="Left">Studying hard  👻</div>-->
 #### *<div align="Left">Studying hard  👻</div>*  
+- Algorithm 
+- Operating System
+
 <br/>
 
 ## Languages and Tools  
