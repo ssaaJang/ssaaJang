@@ -3,7 +3,10 @@
 
 <!--#### <div align="Left">Studying hard  👻</div>-->
 #### *<div align="Left">Studying hard  👻</div>*  
-- Algorithm 
+- Algorithm <br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang6733)](https://solved.ac/jang6733/)
+
+   
 - Operating System
 - Linux
 <br/>
